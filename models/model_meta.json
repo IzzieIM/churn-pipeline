@@ -1,0 +1,33 @@
+{
+  "model_version": "37d1a741694343b8918de7d6f50ea0b3",
+  "dataset_version": "3b558d01605981558d0beec3f316b6818279dad900da06cab152672d67c2f062",
+  "metrics": {
+    "precision": 0.504302925989673,
+    "recall": 0.7834224598930482,
+    "f1": 0.6136125654450262,
+    "auc": 0.8416388953473353
+  },
+  "trained_at": 1786901577943,
+  "model_path": "models\\promoted_model.pkl",
+  "features": [
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges",
+    "SeniorCitizen",
+    "gender",
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod"
+  ]
+}

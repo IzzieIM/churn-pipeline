@@ -1,0 +1,20 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.13.3
+- pip<=25.2
+- pip:
+  - mlflow==3.15.1
+  - dill==0.3.8
+  - numpy==2.3.2
+  - pandas==2.3.1
+  - pathlib==1.0.1
+  - psutil==7.0.0
+  - pyarrow==21.0.0
+  - pydot==4.0.1
+  - scikit-learn==1.7.1
+  - scipy==1.16.1
+  - skops==0.14.0
+  - torch==2.8.0
+  - tqdm==4.67.1
+name: mlflow-env

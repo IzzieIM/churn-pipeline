@@ -1,0 +1,29 @@
+{
+  "dataset_version": "3b558d01605981558d0beec3f316b6818279dad900da06cab152672d67c2f062",
+  "created_at": "2026-08-16T17:32:53.482096+00:00",
+  "rows": 7043,
+  "columns": [
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents",
+    "tenure",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod",
+    "MonthlyCharges",
+    "TotalCharges",
+    "Churn"
+  ],
+  "raw_source": "data/raw/telco_customer_churn.csv",
+  "file": "data\\processed\\dataset-3b558d01605981558d0beec3f316b6818279dad900da06cab152672d67c2f062.parquet"
+}
