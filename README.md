@@ -240,7 +240,7 @@ The model correctly identifies about 59% of churners (recall) and is right 65% o
 
 #### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/churn-pipeline.git
+git clone https://github.com/IzzieIM/churn-pipeline.git
 cd churn-pipeline
 ```
 
